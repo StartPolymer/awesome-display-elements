@@ -1,0 +1,23 @@
+{
+  "name": "awesome-display-elements",
+  "description": "Awesome up-to-date display elements.",
+  "keywords": [
+    "display",
+    "element-collection"
+  ],
+  "authors": [
+    "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dragula-element": "txsmith/dragula-element",
+    "google-map-markerclusterer": "timeu/google-map-markerclusterer",
+    "iron-list": "PolymerElements/iron-list",
+    "iron-scroll-spy": "Zecat/iron-scroll-spy",
+    "leaflet-map": "leaflet-extras/leaflet-map",
+    "l2t-paper-slider": "Link2Twenty/l2t-paper-slider",
+    "paper-stepper": "Zecat/paper-stepper",
+    "time-display": "captaincodeman/time-display"
+  },
+  "private": true
+}
