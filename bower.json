@@ -17,6 +17,7 @@
     "leaflet-map": "leaflet-extras/leaflet-map",
     "l2t-paper-slider": "Link2Twenty/l2t-paper-slider",
     "paper-stepper": "Zecat/paper-stepper",
+    "plastic-image": "mlisook/plastic-image",
     "time-display": "captaincodeman/time-display"
   },
   "private": true
