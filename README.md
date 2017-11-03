@@ -7,7 +7,7 @@
 
 Awesome up-to-date display elements.
 
-[awesome-elements](https://beta.webcomponents.org/collection/StartPolymer/awesome-elements)
+[awesome-elements](https://webcomponents.org/collection/StartPolymer/awesome-elements)
 
 [github-image]: https://img.shields.io/badge/github-add%20element-lightgrey.svg
 [github-url]: https://github.com/StartPolymer/awesome-display-elements/issues/new?title=Add%20element%20&labels=User%20reports
@@ -19,4 +19,4 @@ Awesome up-to-date display elements.
 [github-watchers-url]: https://github.com/StartPolymer/awesome-display-elements
 
 [webcomponents-image]: https://img.shields.io/badge/webcomponents.org-published-blue.svg
-[webcomponents-url]: https://beta.webcomponents.org/collection/StartPolymer/awesome-display-elements
+[webcomponents-url]: https://webcomponents.org/collection/StartPolymer/awesome-display-elements
