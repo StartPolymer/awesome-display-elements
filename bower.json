@@ -10,15 +10,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "dragula-element": "txsmith/dragula-element",
-    "google-map-markerclusterer": "timeu/google-map-markerclusterer",
-    "iron-list": "PolymerElements/iron-list",
-    "iron-scroll-spy": "Zecat/iron-scroll-spy",
-    "leaflet-map": "leaflet-extras/leaflet-map",
-    "l2t-paper-slider": "Link2Twenty/l2t-paper-slider",
-    "paper-stepper": "Zecat/paper-stepper",
-    "plastic-image": "mlisook/plastic-image",
-    "time-display": "captaincodeman/time-display"
+    "iron-list": "PolymerElements/iron-list#^1.0.0",
+    "iron-scroll-spy": "Zecat/iron-scroll-spy#^2.0.0",
+    "l2t-paper-slider": "Link2Twenty/l2t-paper-slider#^2.0.0",
+    "paper-stepper": "Zecat/paper-stepper#^1.0.0"
   },
   "private": true
 }
